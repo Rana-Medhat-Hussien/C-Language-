@@ -1,0 +1,6 @@
+void printMyName(void);
+int main()
+{
+  printMyName(void);
+    return 0;
+}
